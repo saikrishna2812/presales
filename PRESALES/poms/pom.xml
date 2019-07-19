@@ -10,8 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
-    <module>jobs/process/jobiak_0.1</module>
-    <module>jobs/process/file_trigger_0.1</module>
+    <module>jobs/process/jobiak/file_trigger_0.1</module>
+    <module>jobs/process/jobiak/jobiak_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PRESALES</talend.project.name>
